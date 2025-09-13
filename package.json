@@ -1,0 +1,17 @@
+{
+  "name": "hack-mit",
+  "module": "index.ts",
+  "type": "module",
+  "private": true,
+  "devDependencies": {
+    "@types/bun": "latest",
+    "@types/node": "^24.3.3",
+    "tsx": "^4.20.5"
+  },
+  "peerDependencies": {
+    "typescript": "^5.9.2"
+  },
+  "dependencies": {
+    "@mentra/sdk": "^2.1.22"
+  }
+}
